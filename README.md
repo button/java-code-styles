@@ -1,7 +1,9 @@
 Java Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
+IntelliJ IDEA code style settings for Button's Java and Android projects.
+
+Based on original [Square code style](https://github.com/button/java-code-styles) project.
 
 
 Installation
